@@ -35,10 +35,11 @@ const Header = () => {
         {/* logo */}
         <Link href="">
           <Image
-            src={"/assets/img/logo.png"}
-            width={117}
-            height={55}
+            src={"/assets/img/logo.jpg"}
+            width={157}
+            height={100}
             alt="logo"
+            className="border-white border-[0.5px]"
           />
         </Link>
         {/* mobile nav - hidden on desktop */}
