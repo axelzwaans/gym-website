@@ -7,26 +7,26 @@ import CustomButton from "./CustomButton";
 
 const classes = [
   {
-    name: "body building",
-    img: "/assets/img/classes/bodybuilding.jpg",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-  },
-  {
-    name: "fitness",
-    img: "/assets/img/classes/fitness.jpg",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-  },
-  {
-    name: "cardio",
-    img: "/assets/img/classes/cardio.jpg",
+    name: "boxing",
+    img: "/assets/img/classes/boxing.jpg",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
   },
   {
     name: "crossfit",
-    img: "/assets/img/classes/crossfit.jpg",
+    img: "/assets/img/classes/fitness.jpg",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+  },
+  {
+    name: "hiit",
+    img: "/assets/img/classes/cardio.jpg",
+    description:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+  },
+  {
+    name: "rehabilitation",
+    img: "/assets/img/classes/rehabilitation.jpg",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
   },

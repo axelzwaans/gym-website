@@ -10,7 +10,7 @@ import Achievements from "./Achievements";
 const featured = [
   {
     icon: <FaUsers />,
-    title: "award-winning trainers",
+    title: "qualified trainers",
     subtitle: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
   },
   {
@@ -46,10 +46,10 @@ const About = () => {
             viewport={{ once: true, amount: 0.2 }}
             className="max-w-[600px] mx-auto text-center"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos facere
-            quos dicta fugit, perspiciatis natus deserunt sunt eum, quia
-            exercitationem aperiam asperiores earum corrupti a similique iste
-            vero quod blanditiis!
+            Life & Sole is a modern, 3000ft2 personal training, rehabilitation
+            and group exercise conditioning facility. It&apos;s run by
+            qualified, knowledgeable and experienced staff, always on hand to
+            assist or advise.
           </motion.p>
         </div>
         {/* featured items */}
